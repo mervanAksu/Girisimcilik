@@ -1,0 +1,15 @@
+Model 
+https://free3d.com/3d-model/t-shirt-2391.html   3D model görünleri elde edilebilecek bir site.
+
+Blender python eklenti
+python bpy
+https://www.youtube.com/watch?v=2G6f2VpDg4c	Python blender eklentisi ile blenderda otomatik model tasarlama
+
+Modelleri HTML ile bağlayabilmek
+https://modelviewer.dev/   
+blender4web	
+https://www.youtube.com/watch?v=kB-qeCWXwRc	
+https://www.youtube.com/watch?v=1TeMXIWRrqE
+https://www.youtube.com/watch?v=Gk_84KzeQlI
+
+
